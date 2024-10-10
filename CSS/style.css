@@ -80,6 +80,7 @@ section {
 
 .navbar a:hover,
 .navbar a:active {
+    position:fixed;
     background-color: var(--main-color);
 }
 
